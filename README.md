@@ -136,10 +136,7 @@ FraudDetection/
 4. **A/B Testing**: Validate model performance in production with controlled experiments
 5. **Explainability**: Add model interpretability tools (SHAP, LIME) for better understanding of fraud patterns
 
-## Author
-
-Data Science / Machine Learning Engineering Project
 
 ## License
 
-This project is for educational and portfolio purposes.
+This project is for educational purposes.
